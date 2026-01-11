@@ -13,6 +13,7 @@ The system follows these steps:
 5. Visualizes risky days using a graph
 
 Why this matters
+
 In real markets, fake or misleading news is often used to create hype or panic, which can lead to wrong investment decisions.  
 This project shows how data and AI can be used to detect such behaviour using actual market data.
 
@@ -79,5 +80,6 @@ This project helped me understand:
 - how data analytics can be used to detect financial risk  
 
 It combines finance, data analysis, and AI into one practical project.
+
 
 
