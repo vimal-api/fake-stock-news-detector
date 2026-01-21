@@ -1,4 +1,4 @@
-﻿# fake-stock-news-detector
+
 # Fake Stock News & Market Manipulation Detector
 This project was built to understand how fake or exaggerated stock-related news can influence market prices and create misleading trends for retail investors.
 The system uses real stock data and real financial news, applies sentiment analysis, and checks whether unusual price movements happened after high-emotion news.
@@ -80,6 +80,7 @@ This project helped me understand:
 - how data analytics can be used to detect financial risk  
 
 It combines finance, data analysis, and AI into one practical project.
+
 
 
 
